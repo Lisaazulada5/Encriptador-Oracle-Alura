@@ -1,0 +1,11 @@
+{
+    "title": "Text Encryptor",
+    "desc":"Only lowercase letters and no accents.",
+    "encrypt": "encrypt",
+    "decrypt": "decrypt",
+    "instruction": "Enter text that you want to encrypt or decrypt.",
+    "owner": "designed and built by Lici Diaz",
+    "copyText":"Copy text"
+
+
+}
